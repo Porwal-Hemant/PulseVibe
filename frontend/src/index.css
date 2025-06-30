@@ -1,0 +1,78 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Outer full-screen wrapper */
+.str-chat__channel {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(135deg, #d4fc79, #96e6a1);
+  height: 100vh;
+  padding: 1rem;
+  overflow: hidden;
+}
+
+/* White Chat Box – Now Scrollable */
+.str-chat__container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 1000px;
+  max-height: 100%;
+  border-radius: 1rem;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+  background-color: #ffffff;
+  overflow-y: auto; /* <-- Enable scrolling */
+}
+
+/* Chat Header */
+.str-chat__header-livestream {
+  background-color: #f0fdf4;
+  padding: 1rem;
+  border-bottom: 1px solid #e5e7eb;
+  flex-shrink: 0;
+}
+
+/* Messages */
+.str-chat__main-panel {
+  padding: 1rem;
+  flex-shrink: 0;
+}
+
+/* Messages layout */
+.str-chat__list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+/* Hide system notifications */
+.str-chat__list-notifications {
+  display: none;
+}
+
+/* Input Box */
+.str-chat__message-input {
+  padding: 1rem;
+  background-color: #f9fafb;
+  border-top: 1px solid #e5e7eb;
+  border-radius: 0 0 1rem 1rem;
+  z-index: 10;
+  position: relative;
+  flex-shrink: 0;
+}
+
+/* Timestamp */
+.str-chat__message-simple-timestamp {
+  font-size: 0.75rem;
+  color: #94a3b8;
+}
+
+/* Reset message styles */
+.str-chat__message-text-inner {
+  background: none !important;
+  padding: 0 !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+}
