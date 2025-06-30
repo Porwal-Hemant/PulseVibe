@@ -134,6 +134,42 @@ npm run dev
 - Password: 123456789
 
 
+##  Screenshots
+
+### 🔹 Home Page
+![Home Page](https://github.com/Porwal-Hemant/PulseVibe/blob/6e30a22845ceb392e6d26bb4938d8387eb34b8ef/Screenshot%202025-06-30%20130635.png?raw=true)
+
+---
+
+### 🔹 Notification Page
+![Notification Page](https://github.com/Porwal-Hemant/PulseVibe/blob/6e30a22845ceb392e6d26bb4938d8387eb34b8ef/Screenshot%202025-06-30%20130648.png?raw=true)
+
+---
+
+### 🔹 VoiceMate – A Text-to-Speech Application
+![VoiceMate](https://github.com/Porwal-Hemant/PulseVibe/blob/6e30a22845ceb392e6d26bb4938d8387eb34b8ef/Screenshot%202025-06-30%20130657.png?raw=true)
+
+---
+
+### 🔹 Transcripto – A Speech-to-Text Application
+![Transcripto](https://github.com/Porwal-Hemant/PulseVibe/blob/6e30a22845ceb392e6d26bb4938d8387eb34b8ef/Screenshot%202025-06-30%20130705.png?raw=true)
+
+---
+
+### 🔹 Chat Page
+![Chat Page](https://github.com/Porwal-Hemant/PulseVibe/blob/6e30a22845ceb392e6d26bb4938d8387eb34b8ef/Screenshot%202025-06-30%20130755.png?raw=true)
+
+---
+
+### 🔹 Video Call Page
+![Video Page](https://github.com/Porwal-Hemant/PulseVibe/blob/6e30a22845ceb392e6d26bb4938d8387eb34b8ef/Screenshot%202025-06-30%20131101.png?raw=true)
+
+---
+
+### 🔹 Developer Corner
+![Developer Corner](https://github.com/Porwal-Hemant/PulseVibe/blob/6e30a22845ceb392e6d26bb4938d8387eb34b8ef/Screenshot%202025-06-30%20131132.png?raw=true)
+
+
 ## Connect with Me 
 
 - **Name**: Hemant Porwal  
